@@ -5,4 +5,3 @@ public class Student {
     int age;
     int grade;
 }
-1
