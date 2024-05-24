@@ -4,7 +4,7 @@ public class Book {
     String name;
     String author;
     int page;
-    Book (){
+    Book (String java, int i, String han, String number){
         this("","",0);
     }
 
